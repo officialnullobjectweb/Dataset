@@ -1,0 +1,36 @@
+name: India Tax Education Scraper
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs daily at 2:00 AM UTC (7:30 AM IST)
+  workflow_dispatch: # Manual Run button
+
+jobs:
+  build-knowledge-base:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Mandatory for saving data
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Scraper Tools
+        run: |
+          pip install playwright
+          playwright install chromium
+          # We install chromium specifically for the browser
+
+      - name: Run Edu-Scraper
+        run: python scraper.py
+
+      - name: Commit Data to Repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily Tax Update: Fetched latest Rules/Slabs"
+          file_pattern: 'data/*.json'
