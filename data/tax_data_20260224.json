@@ -1,0 +1,39 @@
+[
+  {
+    "source": "https://cleartax.in/s/income-tax-slabs",
+    "category": "tax_slabs",
+    "scraped_at": "2026-02-24",
+    "tables": [],
+    "summary": [
+      "Elevate processes with AI automation and vendor delight",
+      "Streamline vendor management and collaboration in one unified portal"
+    ]
+  },
+  {
+    "source": "https://taxguru.in/income-tax/income-tax-slab-rate-financial-year-2025-26.html",
+    "category": "detailed_rates",
+    "scraped_at": "2026-02-24",
+    "tables": [],
+    "summary": []
+  },
+  {
+    "source": "https://www.hdfcbank.com/personal/resources/learning-centre/save/income-tax-slabs",
+    "category": "bank_view",
+    "scraped_at": "2026-02-24",
+    "tables": [],
+    "summary": [
+      "The page you were looking for was moved, removed, renamed or might have never existed."
+    ]
+  },
+  {
+    "source": "https://www.bankbazaar.com/tax/income-tax-slabs.html",
+    "category": "market_view",
+    "scraped_at": "2026-02-24",
+    "tables": [],
+    "summary": [
+      "Income tax in India is levied based on a slab system, where different income ranges are taxed at different rates. As your income goes up, the tax rate on the higher income also increases. This system ensures that those with higher incomes pay a larger percentage in taxes.",
+      "In the Union Budget 2026, the Finance Minister did not announce any changes in tax slabs or basic exemption limits. The slabs that were announced in the previous budget remain in force for FY 2026-27 (AY 2027-28).",
+      "As per the Income Tax Act, the slabs are revised periodically by the government through the Union Budget. Taxpayers can now choose between the New Tax Regime (lower tax rates but fewer deductions) and the Old Tax Regime (higher rates with multiple exemptions and deductions)."
+    ]
+  }
+]
