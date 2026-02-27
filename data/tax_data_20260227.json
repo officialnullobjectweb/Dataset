@@ -1,0 +1,42 @@
+[
+  {
+    "source": "https://cleartax.in/s/income-tax-slabs",
+    "category": "tax_slabs",
+    "scraped_at": "2026-02-27",
+    "tables": [],
+    "summary": [
+      "Elevate processes with AI automation and vendor delight",
+      "Streamline vendor management and collaboration in one unified portal"
+    ]
+  },
+  {
+    "source": "https://taxguru.in/income-tax/income-tax-slab-rate-financial-year-2025-26.html",
+    "category": "detailed_rates",
+    "scraped_at": "2026-02-27",
+    "tables": [],
+    "summary": [
+      "Summary: For the P.Y. 2025-26, the income tax slab rates differ based on age, with distinct provisions for individuals below 60 years, between 60 and 80 years, and those above 80 years. Under the old regime, individuals below 60 years are taxed starting at 5% for incomes between Rs. 2.5-5 lakhs, with higher rates for incomes exceeding Rs. 10 lakh. Senior citizens (60-80 years) enjoy a lower threshold for tax rates, starting at Rs. 3 lakh. Individuals over 80 years benefit from a higher exemption limit, with taxes starting at Rs. 5 lakh. Surcharges apply to income above Rs. 50 lakh, with varying rates from 10% to 37% depending on the income level. The new regime, under section 115 BAC, offers a progressive tax rate, starting at 5% for income exceeding Rs. 4 lakh and increasing to 30% for incomes above Rs. 24 lakh. Additionally, the rates for co-operative societies and firms are outlined, with specific surcharges depending on the income thresholds. Domestic companies with a turnover exceeding Rs. 400 crore are taxed at 25%, while others are taxed at 30%. For foreign companies, the tax rate varies based on income sources, with surcharges applying at higher income levels. The tax system incorporates surcharges to prevent excessive tax burdens at higher income levels.",
+      "Applicable Tax Rates for P.Y 2025-26 i.e. Financial Year 2025-26"
+    ]
+  },
+  {
+    "source": "https://www.hdfcbank.com/personal/resources/learning-centre/save/income-tax-slabs",
+    "category": "bank_view",
+    "scraped_at": "2026-02-27",
+    "tables": [],
+    "summary": [
+      "The page you were looking for was moved, removed, renamed or might have never existed."
+    ]
+  },
+  {
+    "source": "https://www.bankbazaar.com/tax/income-tax-slabs.html",
+    "category": "market_view",
+    "scraped_at": "2026-02-27",
+    "tables": [],
+    "summary": [
+      "Income tax in India is levied based on a slab system, where different income ranges are taxed at different rates. As your income goes up, the tax rate on the higher income also increases. This system ensures that those with higher incomes pay a larger percentage in taxes.",
+      "In the Union Budget 2026, the Finance Minister did not announce any changes in tax slabs or basic exemption limits. The slabs that were announced in the previous budget remain in force for FY 2026-27 (AY 2027-28).",
+      "As per the Income Tax Act, the slabs are revised periodically by the government through the Union Budget. Taxpayers can now choose between the New Tax Regime (lower tax rates but fewer deductions) and the Old Tax Regime (higher rates with multiple exemptions and deductions)."
+    ]
+  }
+]
